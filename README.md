@@ -170,5 +170,3 @@ Because we've set up a join model, the interface will look almost identical. We 
 ## Conclusion
 
 Displaying data via a `has_many, through` relationship looks identical to displaying data through a normal relationship. That's the beauty of abstraction –– all of the details about how our models are associated with each other get abstracted away, and we can focus simply on the presentation.
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/displaying-has-many-through-rails' title='Displaying Has Many Through Rails'>Displaying Has Many Through Rails</a> on Learn.co and start learning to code for free.</p>
