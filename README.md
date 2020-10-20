@@ -24,17 +24,17 @@ Things get slightly more complicated when we talk about the relationship between
 
 <table border="1" cellpadding="4" cellspacing="0">
   <tr>
-    <td> id </td>
-    <td> content </td>
-    <td> post_id </td>
-    <td> user_id </td>
+    <td>id</td>
+    <td>content</td>
+    <td>post_id</td>
+    <td>user_id</td>
   </tr>
   
   <tr>
-    <td> 1 </td>
-    <td> "I loved this post!" </td>
-    <td> 5 </td>
-    <td> 3 </td>
+    <td>1</td>
+    <td>"I loved this post!"</td>
+    <td>5</td>
+    <td>3</td>
   </tr>
 </table>
 
